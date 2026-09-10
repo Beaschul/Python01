@@ -1,4 +1,4 @@
-#!/usr/bin/phytonh
+#!/usr/bin/python3
 
 class Plant:
     def __init__(self, name: str, height: float, days: int) -> None:
